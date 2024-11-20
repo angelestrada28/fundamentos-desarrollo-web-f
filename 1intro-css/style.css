@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
+
+body{
+background-color: rgb(60, 28, 150);
+}
+h1 {
+color: rgb(215, 134, 255);
+}
+p{
+    text-decoration:underline;
+    color: beige;
+}
+a{
+    text-decoration: none;
+    background-color: rgb(8, 18, 78);
+    color: white;
+
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+.ball{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-color: rgb(4, 170, 170);
+    border: 1px solid black;
+}
+.text-importan{
+font-size: 2rem;background-color: yellow;
+font-style: oblique;
+
+}
+
+#tituloweb{
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
